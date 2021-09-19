@@ -1,1 +1,1 @@
-# am-i-in-the-picture
+# Am I in the picture classifier
